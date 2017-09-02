@@ -38,6 +38,5 @@ function rev(w){
 var name = "James";
 name[0];
 
-
 var quote = "Stay awhile and listen!";
 console.log(quote[6]);
